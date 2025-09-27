@@ -1,0 +1,5 @@
+{
+  "name": "Copy cat1",
+  "description": "An AI-powered application that analyzes call transcripts to extract problems, map solutions, track action items, and perform sentiment analysis, turning messy calls into actionable insights.",
+  "requestFramePermissions": []
+}
